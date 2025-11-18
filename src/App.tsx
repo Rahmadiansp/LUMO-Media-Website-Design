@@ -22,7 +22,7 @@ import { FAQ } from "./components/FAQ";
 import { Card } from "./components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/ui/tabs";
 import { Toaster } from "./components/ui/sonner";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 import { supabase } from "./utils/supabase/client";
 
 interface Article {
