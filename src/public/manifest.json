@@ -1,0 +1,27 @@
+{
+  "name": "LUMO - Kata Kita, Suara Dunia",
+  "short_name": "LUMO",
+  "description": "Platform jurnalisme kontemporer untuk remaja Indonesia. Tulis, baca, dan bagikan berita dengan sistem gamifikasi yang menarik!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0360fd",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["news", "education", "lifestyle"],
+  "lang": "id",
+  "dir": "ltr"
+}
